@@ -12,3 +12,22 @@ for Total Deductions and subtraction for Net Pay.
 2. Data Entry
 3. Pivot Tables
 
+## Screenshots for `Example_Payroll_Calculation_Analysis_For_Corporate_Payroll_Services.xlsx` Microsoft Excel Spreadsheet Files with Pivot Tables:
+
+![Alt text](Screenshots/Example_Payroll_Calculation_Analysis_for_Corporate_Payroll_Services_Part_1.png)
+
+![Alt text](Screenshots/Example_Payroll_Calculation_Analysis_for_Corporate_Payroll_Services_Part_2.png)
+
+![Alt text](Screenshots/Example_Payroll_Calculation_Analysis_for_Corporate_Payroll_Services_Part_3.png)
+
+![Alt text](Screenshots/Pivot_Table_Part_1.png)
+
+![Alt text](Screenshots/Pivot_Table_Part_2.png)
+
+![Alt_text](Screenshots/Pivot_Table_Part_3.png)
+
+![Alt_text](Screenshots/Pivot_Table_Part_4.png)
+
+![Alt_text](Screenshots/Pivot_Table_Part_5.png)
+
+
