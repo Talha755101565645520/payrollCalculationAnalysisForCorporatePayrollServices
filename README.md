@@ -4,7 +4,8 @@
 
 In this project, I created a Payroll Spreadsheet that automates and analyzes employee payment data using Microsoft Excel formulas of addition, subtraction, and multiplication. I used 
 addition for Gross Pay, Multiplication for Gross Pay, Subtraction/Multiplication for Overtime Pay, Multiplication for Federal Tax, Multiplication for Retirement Contradiction, addition
-for Total Deductions and subtraction for Net Pay.
+for Total Deductions and subtraction for Net Pay. The Pivot Table summarizes and analyzes the "Sum of HOURS WORKED" based on the job title which is then broken down into the sum of total
+hours categorized by "EMPLOYEE NAME".  
 
 ## Skills Applied in This Project:
 
@@ -26,8 +27,5 @@ for Total Deductions and subtraction for Net Pay.
 
 ![Alt_text](Screenshots/Pivot_Table_Part_3.png)
 
-![Alt_text](Screenshots/Pivot_Table_Part_4.png)
-
-![Alt_text](Screenshots/Pivot_Table_Part_5.png)
 
 
